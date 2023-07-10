@@ -1,0 +1,13 @@
+package enumType;
+
+public enum TypeAccount {
+	
+	CONTA_CORRENTE,
+	CORRENTE,
+	CONTA_POUPANÇA,
+	POUPANÇA,
+	CONTA_SALARIO,
+	SALARIO,
+	CONTA_ENCERRADA,
+	ENCERRADA;
+}
